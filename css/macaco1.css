@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+section#video {
+    width: 100%;
+    padding: 50px 30px 0px 30px;
+}
+
+video {
+    width: 80%;
+    height: 500px;
+}
+
+h3 {
+    position: relative;
+    bottom: 57px;
+    left: 5%;
+}
+
+input#like {
+    position: relative;
+    float: right;
+    bottom: 90px;
+    right: 70%;
+}
+
+input#dislike {
+    position: relative;
+    float: right;
+    bottom: 90px;
+    right: 64%;
+}
+
+p#porcentagem {
+    position: relative;
+    bottom: 50px;
+}
+
+img#verificado {
+    position: relative;
+    width: 5%;
+}
+
+a.video {
+    position: relative;
+    text-decoration: none;
+    color: white;
+    font-size: 120%;
+    bottom: 10%;
+    left: 10%;
+}
+
+div#linha {
+    display: inline-flex;
+    padding-bottom: 100px;
+}
+
+div.recomendacoes {
+    border: 1px solid rgb(82, 82, 82);
+    border-radius: 10%;
+    margin-right: 30px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+div#cumgames {
+    padding-right: 30px;
+}
+
+img.recomendacao {
+    position: relative;
+    bottom: 10%;
+    left: 10%;
+    width: 70%;
+    height: 70%;
+    padding: 100px 2% 0px 2%;
+}
+
+div img.recomendacao1 {
+    position: relative;
+    bottom: 10%;
+    left: 20%;
+    width: 66%;
+    height: 70%;
+    padding: 100px 2% 0px 2%;
+}
+
+img.recomendacao2 {
+    position: relative;
+    bottom: 10%;
+    left: 10%;
+    width: 85%;
+    padding: 100px 2% 0px 2%;
+}
+
+img.recomendacao3 {
+    position: relative;
+    bottom: 10%;
+    left: 5%;
+    width: 85%;
+    padding: 100px 2% 0px 2%;
+}
